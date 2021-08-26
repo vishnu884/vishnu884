@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vishnu884
-- 👀 I’m interested in Pursuing masters in Machine learning
 - 🌱 I’m currently learning Bachelors degree in Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through: Linkedin-https://www.linkedin.com/in/vishnu-varadhan-588954170/
 
 <!---
