@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VISHNUVARADHAN M (@vishnu884)
-- 🌱 I’m currently learning Bachelors degree in Electronics and Communication Engineering
+- 🌱 I’m currently pursuing Master of Science in Computer Engineering
 - 📫 How to reach me through: Linkedin-https://www.linkedin.com/in/vishnuvaradhan-moganarengam-588954170/
 
 <!---
